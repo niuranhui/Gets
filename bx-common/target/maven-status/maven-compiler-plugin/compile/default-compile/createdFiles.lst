@@ -1,0 +1,5 @@
+com\bx\entity\ResponseResult.class
+com\bx\entity\Customer.class
+com\bx\service\CustomerService.class
+com\bx\entity\Customerinfo.class
+com\bx\service\CustomerinfoService.class
