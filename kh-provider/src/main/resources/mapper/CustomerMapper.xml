@@ -2,14 +2,58 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.bx.kh.khprovider.dao.CustomerDao">
+<mapper namespace="com.bx.dao.CustomerDao">
+    <!--手动映射-->
+    <resultMap id="CustomerMap" type="Customer">
+        <result property="cid" column="cid"/>
+        <result property="createTime" column="createTime"/>
+        <result property="updateTime" column="updateTime"/>
+        <result property="stateus" column="stateus"/>
+        <association property="customerinfo" javaType="Customerinfo">
+            <result property="userName" column="userName"/>
+            <result property="birthday" column="birthday"/>
+            <result property="phone" column="phone"/>
+            <result property="address" column="address"/>
+            <result property="sex" column="sex"/>
+            <result property="IdentityCard" column="IdentityCard"/>
+            <result property="Email" column="Email"/>
+        </association>
+    </resultMap>
+    <!--查询客户信息-->
+    <select id="CustomerList" resultMap="CustomerMap" parameterType="CustomerPartment">
+        SELECT c.cid, ci.userName,ci.birthday,ci.phone,ci.address,ci.sex,
+        ci.IdentityCard,ci.Email,c.createTime,c.updateTime,c.stateus
+            FROM customerinfo ci
+            INNER JOIN customer c ON c.uid=ci.userId
 
-    <insert id="addCust" parameterType="Customer">
-         insert  into customer(cid,uid,createTime,updateTime,createorId,
-            source,stateus)
-            values (#{cid},#{uid},now(),now(),#{createorId},#{source},#{stateus})
-    </insert>
-
-
-
+        <trim prefix="where" prefixOverrides="and">
+                ci.type=3
+            <if test="userName!=null and userName!=''">
+                and userName like  CONCAT('%',#{userName},'%')
+            </if>
+            <if test="phone!=null and phone!=''">
+                and phone like  CONCAT('%',#{phone},'%')
+            </if>
+            <if test="IdentityCard!=null and IdentityCard!=''">
+                and IdentityCard like  CONCAT('%',#{IdentityCard},'%')
+            </if>
+        </trim>
+        order by
+        <choose>
+            <when test="orderBy!=null and orderBy!=''">
+                ${orderBy} DESC
+            </when>
+            <otherwise>
+                c.createTime ASC
+            </otherwise>
+        </choose>
+        <if test="pageIndex!=null and pageSize!=null" >
+            limit #{pageIndex},#{pageSize}
+        </if>
+    </select>
+    <!--查询记录数-->
+    <select id="CountCustomer"  resultType="int">
+        SELECT COUNT(id) FROM customerinfo
+        WHERE customerinfo.type=3
+    </select>
 </mapper>

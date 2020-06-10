@@ -1,58 +1,39 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <script type="application/javascript" src="js/jquery-1.12.4.js"></script>
-    <script type="application/javascript" src="js/tianjia.js"></script>
-
 
 </head>
+<script type="application/javascript" src="js/jquery-1.12.4.js"></script>
+<script type="application/javascript">
+    /*function khList(param){
+        alert("进来");
+        if(param==null){
+            var param ={};
+            param.curPage=1;
+        }
+        param.pageSize=5;
+        alert("1")
+        $.ajax({
+            url:"khList",
+            type:"get",
+            data:param,
+            success:function (result) {
+                alert("成功啦");
+                location.href="khList.html"
+
+            }
+        })
+    }*/
+</script>
 <body>
 <div>
+    <h1>客户管理</h1>
+    <a href="javascript:khList()">客户列表</a>
+    <div id="kh">
 
-
+    </div>
 </div>
-<div class="one">
-
-</div>
-
-<!--  <div>
-    编号:
-    <input type="text" id="ID"/>
-  </div>-->
-<div>
-    用户编号:
-    <input type="text" id="userid"/>
-</div>
-<div>
-    姓名:
-    <input type="text" id="username"/>
-</div>
-<div>
-    出生日期:
-    <input type="date" id="birthday"/>
-</div>
-<div>
-    手机号:
-    <input type="text" id="phone"/>
-</div>
-<div>
-    地址:
-    <input type="text" id="address"/>
-</div>
-<div>
-    性别:
-    <input type="text" id="sex"/>
-</div>
-<div>
-    电子邮箱:
-    <input type="text" id="email"/>
-</div>
-<div>
-    身份证号:
-    <input type="text" id="identitycard"/>
-</div>
-<input type="button" value="保存"  onclick="addout()">
 </body>
 </html>

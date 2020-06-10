@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java" line="99" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="fd9cc983-7562-4bda-9053-382cf4d062e4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../kh-provider/target/" />
     <ignored path="$PROJECT_DIR$/../kh-comsumer/target/" />
+    <ignored path="$PROJECT_DIR$/../bx-userconsumer/target/" />
+    <ignored path="$PROJECT_DIR$/../bx-userprovider/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,101 +47,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/index.html">
+      <file leaf-file-name="CustomerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/Controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-578">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="288">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tianjia.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/js/tianjia.js">
+      <file leaf-file-name="CustomerMapper.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/mapper/CustomerMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerinfoServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="48" selection-start-line="48" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomersController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/controller/CustomersController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="24" selection-start-line="24" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerinfoDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/dao/CustomerinfoDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/dao/CustomerDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KhProviderApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/KhProviderApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" selection-start-line="8" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerinfoMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/mapper/CustomerinfoMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+            <state relative-caret-position="-649">
+              <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -152,11 +70,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
-        <option value="Interface" />
-        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -166,31 +82,53 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../kh-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/ResponseResult.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bx/service/CustomerService.java" />
-        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/KhProviderApplication.java" />
-        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/util/RedisUtil.java" />
-        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/util/TokenExistUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bx/service/CustomerinfoService.java" />
-        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/dao/CustomerinfoDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Customer.java" />
-        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/util/liushuihao.java" />
-        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/templates/tianjia.ftl" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../kh-provider/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/KhComsumerApplication.java" />
-        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/dao/CustomerDao.java" />
         <option value="$PROJECT_DIR$/../kh-comsumer/pom.xml" />
-        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../kh-provider/src/main/resources/mapper/CustomerinfoMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Customerinfo.java" />
+        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/KhProviderApplication.java" />
+        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/KhComsumerApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/CustomerPage.java" />
+        <option value="$PROJECT_DIR$/../kh-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Appuser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Bankinfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Insurproduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/MenuInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/OrgArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Package.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/PageageInsurproduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/PerMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Policy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Policytrade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/ResponseResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Reviewrecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/RolePermission.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/StaffPermission.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/StaffRole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/UserRole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/StaffInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/service/StaffInfoService.java" />
+        <option value="$PROJECT_DIR$/../bx-userprovider/pom.xml" />
+        <option value="$PROJECT_DIR$/../bx-userconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../bx-userprovider/src/main/java/com/bx/bxuserprovider/serviceImpl/StaffInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../bx-userprovider/src/main/java/com/bx/bxuserprovider/dao/StaffInfoDao.java" />
+        <option value="$PROJECT_DIR$/../bx-userprovider/src/main/java/com/bx/bxuserprovider/util/TokenExistUtil.java" />
+        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/khprovider/dao/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/service/impl/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/service/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/index.html" />
+        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/jsp/khList.js" />
+        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/dao/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/js/khList.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/CustomerPartment.java" />
+        <option value="$PROJECT_DIR$/../kh-provider/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Customer.java" />
         <option value="$PROJECT_DIR$/../kh-provider/src/main/resources/mapper/CustomerMapper.xml" />
-        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/controller/CustomersController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bx/entity/Customerinfo.java" />
+        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/templates/khList.ftl" />
+        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/khList.html" />
         <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/index.html" />
-        <option value="$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/js/tianjia.js" />
+        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/Controller/CustomerController.java" />
       </list>
     </option>
   </component>
@@ -200,12 +138,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\reposeitory" />
-        <option name="mavenHome" value="F:/素材/Maven/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -219,15 +162,6 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="bx-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="kh-comsumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="kh-comsumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
@@ -249,10 +183,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="822" />
-    <option name="width" value="1080" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="397" />
+    <option name="y" value="-15" />
+    <option name="width" value="1680" />
+    <option name="height" value="1051" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -260,6 +195,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,15 +229,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bx-common" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bx-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bx" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bx-common" type="b2602c69:ProjectViewProjectNode" />
@@ -348,7 +276,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="khcomsumer" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bx-common" type="b2602c69:ProjectViewProjectNode" />
@@ -402,7 +330,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="khprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="bx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bx-common" type="b2602c69:ProjectViewProjectNode" />
@@ -410,7 +338,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="khprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="bx" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -419,17 +347,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="khprovider" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bx-common" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kh-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="khprovider" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="bx" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bx-common" type="b2602c69:ProjectViewProjectNode" />
@@ -450,8 +369,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -465,24 +382,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="com.sjhy.plugin.ui.TypeMapperSetting" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\bx\kh-comsumer\src\main\resources\static" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.bx.kh.khprovider.serviceImpl" />
-      <recent name="com.bx.entity" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\bx\kh-provider\src\main\java\com\bx\kh\khprovider\util" />
-      <recent name="G:\bx\kh-comsumer\src\main\resources\templates" />
-      <recent name="G:\bx\kh-comsumer\src\main\resources\static\js" />
+      <recent name="E:\bx\kh-comsumer\src\main\resources\static\js" />
       <recent name="E:\bx\bx-common\src\main\java\com\bx" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\bx\kh-comsumer\src\main\resources\static\js" />
+      <recent name="E:\bx\kh-comsumer\src\main\resources\static" />
+      <recent name="E:\bx\bx-common\src\main\java\com\bx\util" />
+      <recent name="E:\bx\bx-common\src\main\java\com\bx\entity" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -500,17 +420,6 @@
   <component name="RunManager" selected="Spring Boot.KhComsumerApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="liushuihao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bx.khcomsumer.util.liushuihao" />
-      <module name="kh-comsumer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bx.khcomsumer.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -532,9 +441,15 @@
       <module name="kh-comsumer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.bx.khcomsumer.KhComsumerApplication" />
     </configuration>
-    <configuration name="KhProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="KhProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="kh-provider" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bx.kh.khprovider.KhProviderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bx.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bx.KhProviderApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -559,13 +474,12 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.KhProviderApplication" />
       <item itemvalue="Spring Boot.KhComsumerApplication" />
-      <item itemvalue="Application.liushuihao" />
+      <item itemvalue="Spring Boot.KhProviderApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.liushuihao" />
+        <item itemvalue="Spring Boot.KhProviderApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -588,58 +502,70 @@
       <workItem from="1591183828166" duration="516000" />
       <workItem from="1591184581954" duration="916000" />
       <workItem from="1591190547550" duration="678000" />
-      <workItem from="1591235357551" duration="587000" />
-      <workItem from="1591236456102" duration="8087000" />
-      <workItem from="1591285691293" duration="491000" />
-      <workItem from="1591321537439" duration="3326000" />
-      <workItem from="1591329036515" duration="2863000" />
-      <workItem from="1591361868819" duration="2000" />
-      <workItem from="1591423710527" duration="10919000" />
-      <workItem from="1591575978440" duration="15994000" />
-      <workItem from="1591663331356" duration="16903000" />
+      <workItem from="1591235357551" duration="2153000" />
+      <workItem from="1591250738590" duration="774000" />
+      <workItem from="1591262116276" duration="1193000" />
+      <workItem from="1591319534970" duration="1136000" />
+      <workItem from="1591322661940" duration="665000" />
+      <workItem from="1591325813725" duration="62000" />
+      <workItem from="1591354757558" duration="9078000" />
+      <workItem from="1591424977666" duration="7764000" />
+      <workItem from="1591434167697" duration="786000" />
+      <workItem from="1591435000463" duration="479000" />
+      <workItem from="1591436803961" duration="1728000" />
+      <workItem from="1591447650555" duration="2189000" />
+      <workItem from="1591449872874" duration="1030000" />
+      <workItem from="1591495340102" duration="7156000" />
+      <workItem from="1591529658453" duration="6947000" />
+      <workItem from="1591578837663" duration="1254000" />
+      <workItem from="1591601053616" duration="5186000" />
+      <workItem from="1591609032914" duration="558000" />
+      <workItem from="1591609626344" duration="4260000" />
+      <workItem from="1591662979821" duration="928000" />
+      <workItem from="1591663958010" duration="3530000" />
+      <workItem from="1591667552199" duration="2527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66566000" />
+    <option name="totallyTimeSpent" value="68777000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="56" y="152" width="1680" height="952" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067294" side_tool="true" weight="0.4" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.20323014" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.1537037" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32974428" />
+      <window_info anchor="right" id="Database" order="3" weight="0.124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932706" weight="0.41666666" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3230994" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5482456" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20728643" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20659488" />
-      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17037037" />
+      <window_info anchor="right" id="Bean Validation" order="4" weight="0.32962528" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Database Console" weight="0.057017542" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.32967034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32527474" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -648,484 +574,384 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>74</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>90</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>71</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>83</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>84</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>88</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>78</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>80</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>64</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java</url>
-          <line>66</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="25" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/service/service/impl/CustomerServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/service/impl/CustomerServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/util/SecurityUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="72">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/util/MD5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="35" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="-663">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Appuser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="55" selection-start-line="55" selection-end-line="60" selection-end-column="21" />
+        <state>
+          <caret column="14" selection-start-column="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Bankinfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Insurproduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/MenuInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/OrgArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="35" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="35" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Package.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="55" selection-start-line="55" selection-end-line="60" selection-end-column="21" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Page.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="35" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="35" />
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/PerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="55" selection-start-line="55" selection-end-line="60" selection-end-column="21" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/PageageInsurproduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Policy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Policytrade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Reviewrecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/RolePermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/StaffInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/StaffPermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/StaffRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/UserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bx-userconsumer/src/main/java/com/kgc/bxuserconsumer/BxUserconsumerApplication.java" />
+    <entry file="file://$PROJECT_DIR$/../bx-userprovider/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../bx-userconsumer/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../bx-userprovider/src/main/java/com/bx/bxuserprovider/dao/StaffInfoDao.java" />
+    <entry file="file://$PROJECT_DIR$/../bx-userprovider/src/main/java/com/bx/bxuserprovider/util/TokenExistUtil.java" />
+    <entry file="file://$PROJECT_DIR$/../bx-userprovider/src/main/java/com/bx/bxuserprovider/serviceImpl/StaffInfoServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="144">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/reposeitory/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/coyote/AbstractProtocol.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="278" selection-start-line="278" selection-end-line="278" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/util/TokenExistUtil.java" />
     <entry file="file://$PROJECT_DIR$/../kh-provider/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/util/RedisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" selection-start-line="14" selection-end-line="15" />
+        <state relative-caret-position="1248">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/ResponseResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="24">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/util/liushuihao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/service/StaffInfoService.java" />
+    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/dao/CustomerDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="98" column="14" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
+        <state relative-caret-position="600">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/templates/tianjia.ftl" />
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/js/jquery-3.4.1.js">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/js/jquery-1.12.4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="237">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/KhComsumerApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/CustomerPartment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/CustomerPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://07832e35-d6dc-49d7-884f-8d0bce4e91f7/schema/bx/table/customerinfo">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/service/CustomerinfoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/service/CustomerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Customerinfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-            <element signature="e#1033#1034#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1142#1143#0" expanded="true" />
-            <element signature="e#1177#1178#0" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1256#1257#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1360#1361#0" expanded="true" />
-            <element signature="e#1406#1407#0" expanded="true" />
-            <element signature="e#1446#1447#0" expanded="true" />
-            <element signature="e#1478#1479#0" expanded="true" />
-            <element signature="e#1506#1507#0" expanded="true" />
-            <element signature="e#1548#1549#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
-            <element signature="e#1616#1617#0" expanded="true" />
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1692#1693#0" expanded="true" />
-            <element signature="e#1730#1731#0" expanded="true" />
-            <element signature="e#1761#1762#0" expanded="true" />
-            <element signature="e#1787#1788#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
-            <element signature="e#1888#1889#0" expanded="true" />
-            <element signature="e#1916#1917#0" expanded="true" />
-            <element signature="e#1958#1959#0" expanded="true" />
-            <element signature="e#1987#1988#0" expanded="true" />
-            <element signature="e#2026#2027#0" expanded="true" />
-            <element signature="e#2061#2062#0" expanded="true" />
-            <element signature="e#2117#2118#0" expanded="true" />
-            <element signature="e#2160#2161#0" expanded="true" />
-            <element signature="e#2195#2196#0" expanded="true" />
-            <element signature="e#2228#2229#0" expanded="true" />
-            <element signature="e#2278#2279#0" expanded="true" />
-            <element signature="e#2322#2323#0" expanded="true" />
-            <element signature="e#2357#2358#0" expanded="true" />
-            <element signature="e#2390#2391#0" expanded="true" />
-            <element signature="e#2440#2441#0" expanded="true" />
-            <element signature="e#2484#2485#0" expanded="true" />
-            <element signature="e#2516#2517#0" expanded="true" />
-            <element signature="e#2543#2544#0" expanded="true" />
-            <element signature="e#2584#2585#0" expanded="true" />
-            <element signature="e#2616#2617#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="984">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/reposeitory/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/binding/MapperProxy.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/entity/Customerinfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="145" selection-start-line="17" selection-start-column="145" selection-end-line="17" selection-end-column="145" />
+        <state relative-caret-position="74">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/reposeitory/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="360">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/mapper/CustomerMapper.xml">
+    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/templates/khList.ftl" />
+    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/khList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        <state relative-caret-position="1128">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/application.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/spring/boot/dubbo-spring-boot-starter/1.0.0/dubbo-spring-boot-starter-1.0.0-sources.jar!/com/alibaba/dubbo/spring/boot/DubboAutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="48" selection-start-line="48" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/mapper/CustomerinfoMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/KhProviderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/dao/CustomerDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/dao/CustomerinfoDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-578">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="47">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/controller/CustomersController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bx/service/CustomerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="24" selection-start-line="24" selection-end-line="25" />
+        <state relative-caret-position="312">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/service/impl/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kh-comsumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-888">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/KhProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/KhComsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/java/com/bx/kh/khprovider/serviceImpl/CustomerinfoServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/java/com/bx/khcomsumer/Controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kh-comsumer/src/main/resources/static/js/tianjia.js">
+    <entry file="file://$PROJECT_DIR$/../kh-provider/src/main/resources/mapper/CustomerMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        <state relative-caret-position="-649">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>kh-provider</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46738234" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

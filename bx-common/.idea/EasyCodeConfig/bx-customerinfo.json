@@ -88,7 +88,7 @@
   } ],
   "pkColumn" : null,
   "otherColumn" : null,
-  "savePackageName" : "com.bx",
+  "savePackageName" : "com.bx.entity",
   "savePath" : "./src/main/java/com/bx",
-  "saveModelName" : "bx-common"
+  "saveModelName" : "bxcommon"
 }

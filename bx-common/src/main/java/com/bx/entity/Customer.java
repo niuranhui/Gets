@@ -3,22 +3,51 @@ package com.bx.entity;
 import java.io.Serializable;
 import java.util.Date;
 
+/**
+ * (Customer)客户实体类
+ *
+ * @author makejava
+ * @since 2020-06-05 19:54:34
+ */
 public class Customer implements Serializable {
+    /**
+    * 编号
+    */
+    private String cid;
+    /**
+     * 用户编号
+     */
+    private String uid;
+    /**
+    * 创建时间
+    */
+    private Date createTime;
+    /**
+    * 修改时间
+    */
+    private Date updateTime;
+    /**
+    * 创建客户的创建者的id
+    */
+    private String createorId;
+    /**
+    * 0:员工创建；1：APP User创建；默认0
+    */
+    private Integer source;
+    /**
+     * 状态
+     * 0:在线；1：在线
+     */
+    private Integer stateus;
 
-     private String cid;
-     private String uid;
-     private Date createTime;
-     private Date  updateTime;
-     private String createorId;
-     private Integer source;
-     private Integer stateus;
+    private Customerinfo customerinfo;
 
-    public String getUid() {
-        return uid;
+    public Customerinfo getCustomerinfo() {
+        return customerinfo;
     }
 
-    public void setUid(String uid) {
-        this.uid = uid;
+    public void setCustomerinfo(Customerinfo customerinfo) {
+        this.customerinfo = customerinfo;
     }
 
     public String getCid() {
@@ -27,6 +56,14 @@ public class Customer implements Serializable {
 
     public void setCid(String cid) {
         this.cid = cid;
+    }
+
+    public String getUid() {
+        return uid;
+    }
+
+    public void setUid(String uid) {
+        this.uid = uid;
     }
 
     public Date getCreateTime() {

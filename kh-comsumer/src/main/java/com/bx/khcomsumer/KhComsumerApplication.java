@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @EnableDubboConfiguration
-
 public class KhComsumerApplication {
 
     public static void main(String[] args) {

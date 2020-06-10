@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bx-common" />
         <module name="bxcommon" />
         <module name="kh-comsumer" />
         <module name="kh-provider" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bx-userconsumer" target="1.8" />
+      <module name="bx-userprovider" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

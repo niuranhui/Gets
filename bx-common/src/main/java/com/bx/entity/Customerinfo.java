@@ -4,13 +4,12 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * (Customerinfo)实体类
+ * (Customerinfo)用户实体类
  *
  * @author makejava
- * @since 2020-06-09 11:19:00
+ * @since 2020-06-05 22:00:51
  */
 public class Customerinfo implements Serializable {
-    private static final long serialVersionUID = -32505067469656961L;
     /**
     * 编号
     */
@@ -47,14 +46,28 @@ public class Customerinfo implements Serializable {
     * 身份证号
     */
     private String IdentityCard;
-    
+    /**
+     * 创建时间
+     */
     private Date createTime;
-    
+    /**
+     * 修改时间
+     */
     private Date updateTime;
     /**
     * 1：APP端用户；2：员工；3：客户
     */
     private Integer type;
+
+    private Customer customer;
+
+    public Customer getCustomer() {
+        return customer;
+    }
+
+    public void setCustomer(Customer customer) {
+        this.customer = customer;
+    }
 
     public String getId() {
         return id;
